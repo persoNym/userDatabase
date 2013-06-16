@@ -1,0 +1,172 @@
+Name:Tom Hanks UID:hanky Password:1234    Name:Nicole Kidman UID:kids Password:4321    Name:Victor Victoria UID:1234 Password:     Name:Victor Victoria UID:1234 Password:victoria
+
+Run1:
+run:
+LogOn.java program by Victoria
+Last revised:10 Feb 2013 19:46:27 GMT
+LOGON MENU
+-------------------------------------
+1. New User 
+2. Log in 
+3. Change Password 
+4. Log off 
+5. List users 
+6. Quit 
+Please select option 1,2,3,4,5 or 6 from the menu
+1
+Please input your full name:
+Tom Hanks
+Plese input a user id. UID must be one string of characters:
+hanky
+Please enter your password. Password must be one string of characters:
+1234
+Please re-enter password:
+1234
+LOGON MENU
+-------------------------------------
+1. New User 
+2. Log in 
+3. Change Password 
+4. Log off 
+5. List users 
+6. Quit 
+Please select option 1,2,3,4,5 or 6 from the menu
+5
+[ Password is: 1234 User ID is: hanky Name is: Tom Hanks]
+LOGON MENU
+-------------------------------------
+1. New User 
+2. Log in 
+3. Change Password 
+4. Log off 
+5. List users 
+6. Quit 
+Please select option 1,2,3,4,5 or 6 from the menu
+6
+Information has been saved to Users.txt
+BUILD SUCCESSFUL (total time: 45 seconds)
+
+Run2:
+run:
+LogOn.java program by Victoria
+Last revised:10 Feb 2013 19:48:09 GMT
+LOGON MENU
+-------------------------------------
+1. New User 
+2. Log in 
+3. Change Password 
+4. Log off 
+5. List users 
+6. Quit 
+Please select option 1,2,3,4,5 or 6 from the menu
+1
+Please input your full name:
+Nicole Kidman
+Plese input a user id. UID must be one string of characters:
+kids
+Please enter your password. Password must be one string of characters:
+4321
+Please re-enter password:
+4321
+LOGON MENU
+-------------------------------------
+1. New User 
+2. Log in 
+3. Change Password 
+4. Log off 
+5. List users 
+6. Quit 
+Please select option 1,2,3,4,5 or 6 from the menu
+5
+[ Password is: 4321 User ID is: kids Name is: Nicole Kidman]
+LOGON MENU
+-------------------------------------
+1. New User 
+2. Log in 
+3. Change Password 
+4. Log off 
+5. List users 
+6. Quit 
+Please select option 1,2,3,4,5 or 6 from the menu
+6
+Information has been saved to Users.txt
+BUILD SUCCESSFUL (total time: 26 seconds)
+
+run3:
+run:
+LogOn.java program by Victoria
+Last revised:10 Feb 2013 19:49:21 GMT
+LOGON MENU
+-------------------------------------
+1. New User 
+2. Log in 
+3. Change Password 
+4. Log off 
+5. List users 
+6. Quit 
+Please select option 1,2,3,4,5 or 6 from the menu
+1
+Please input your full name:
+Victor Victoria
+Plese input a user id. UID must be one string of characters:
+1234
+Please enter your password. Password must be one string of characters:
+victoria
+Please re-enter password:
+victoriA
+INVALID PASSWORD!
+LOGON MENU
+-------------------------------------
+1. New User 
+2. Log in 
+3. Change Password 
+4. Log off 
+5. List users 
+6. Quit 
+Please select option 1,2,3,4,5 or 6 from the menu
+1
+Please input your full name:
+Victor Victoria
+Plese input a user id. UID must be one string of characters:
+1234
+Please enter your password. Password must be one string of characters:
+victoria
+Please re-enter password:
+victoria
+LOGON MENU
+-------------------------------------
+1. New User 
+2. Log in 
+3. Change Password 
+4. Log off 
+5. List users 
+6. Quit 
+Please select option 1,2,3,4,5 or 6 from the menu
+5
+[ Password is:  User ID is: 1234 Name is: Victor Victoria]
+[ Password is: victoria User ID is: 1234 Name is: Victor Victoria]
+LOGON MENU
+-------------------------------------
+1. New User 
+2. Log in 
+3. Change Password 
+4. Log off 
+5. List users 
+6. Quit 
+Please select option 1,2,3,4,5 or 6 from the menu
+6
+Information has been saved to Users.txt
+BUILD SUCCESSFUL (total time: 55 seconds)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
